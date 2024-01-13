@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../qr_flask"
+		}
+	],
+	"settings": {}
+}
